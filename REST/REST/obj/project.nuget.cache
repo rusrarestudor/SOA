@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4f232R4qn+APXf2PJOOPERXJc9CGkOMXYmM5pvZb4Go2vxCCawdTFYoyg9RFQ3CTvfv6NGCmwZSAE5TcslVecw==",
+  "dgSpecHash": "G4MouEuVMp842FqkZ4vuQ/jYmLXamUqcDt1+k/vzdWgEl58sKIT/KyrS8heCU2r0zd6goUkeIxL6u3TgXjwmTA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\SOA\\REST\\REST\\REST.csproj",
   "expectedPackageFiles": [
@@ -21,8 +21,7 @@
     "C:\\Users\\Rus\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\Rus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
     "C:\\Users\\Rus\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\Rus\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
-    "C:\\Users\\Rus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+    "C:\\Users\\Rus\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

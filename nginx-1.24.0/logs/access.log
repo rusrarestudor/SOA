@@ -1,0 +1,2 @@
+127.0.0.1 - - [05/Feb/2024:23:31:49 +0200] "GET / HTTP/1.1" 200 615 "https://mdahlany.medium.com/how-to-run-load-balancing-on-local-host-using-nginx-b8e59dafb2ef" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+127.0.0.1 - - [05/Feb/2024:23:31:49 +0200] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
